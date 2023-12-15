@@ -1,0 +1,17 @@
+{
+  "title": "Hunter x Hunter",
+  "description": "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other men. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.\n",
+  "artist": "Togashi Yoshihiro",
+  "author": "Togashi Yoshihiro",
+  "cover": "https://meo.comick.pictures/8npWp.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1702627718",
+      "groups": {
+        "Official": "https://comick.app/comic/hunter-x-hunter/mgDRG-chapter-1-en"
+      }
+    }
+  }
+}
